@@ -1,2 +1,1 @@
-# MyFirstProject
-xyz
+This is for tutorial purpose
